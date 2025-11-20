@@ -1,4 +1,4 @@
-0.2
+0.3
 main.cpp
 rubic_info.txt
 usb_cipher_botan
